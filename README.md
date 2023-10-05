@@ -7,10 +7,10 @@
 - 💞️ I’m looking to collaborate on projects related to DevOps, where I can apply my knowledge and contribute to creating robust and automated development pipelines. Let's build and deploy together!
 - 💡 Constantly learning and exploring new technologies
 - 🚀 Building cool projects to solve real-world problems
-- 🌐 Interested in Machine Learning, Cybersecurity and Web Development
+- 🌐 Also Interested in Machine Learning, Data Science, Cybersecurity and Web Development
 - 📚 Enthusiastic learner, always seeking to expand my knowledge
 - 💬 Let's connect and collaborate on exciting projects!
-- 📫 Reach me at Github
+- 📫 Reach me at GitHub
 - 🌟 Check out my portfolio: https://github.com/Ammar-Siddique
 <!---
 Ammar-Siddique/Ammar-Siddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
