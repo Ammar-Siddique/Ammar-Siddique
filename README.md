@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ammar-Siddique
-- 👋 Hello World!
 - 👨‍🎓 Computer Science Student | Year 4
 - 🖥️ Passionate about Coding, Algorithms, and Problem Solving
 - 👀 I’m interested in DevOps, Automation, Cloud Computing, and Continuous Integration/Continuous Deployment (CI/CD)
