@@ -156,7 +156,7 @@ Good engineering habits transfer across domains.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=transparent" alt="Ammar's GitHub Stats" />
+  [![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Siddique&theme=transparent" alt="Ammar's GitHub Streak" />
 </p>
 
