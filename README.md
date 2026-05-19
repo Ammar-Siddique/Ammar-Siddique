@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | Automation</h3>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | Automation Enthusiast</h3>
 
 <p align="center">
 Building scalable cloud platforms, automating delivery pipelines, and engineering reliable production systems.
@@ -161,5 +161,5 @@ Good engineering habits transfer across domains.
 </p>
 
 <p align="center">
-Always automating the repetitive, optimizing the expensive, and hardening the critical.
+Automate the repetitive. Optimize the expensive. Hardening the critical. Engineer for reliability.
 </p>
