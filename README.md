@@ -156,7 +156,8 @@ Good engineering habits transfer across domains.
 ---
 
 <p align="center">
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=tokyonight" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
