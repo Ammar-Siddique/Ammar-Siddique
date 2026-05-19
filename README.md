@@ -1,18 +1,144 @@
-- 👋 Hi, I’m @Ammar-Siddique
-- 👨‍🎓 BSCS Graduate @ Fast NUCES 2024 
-- 🖥️ Passionate about Coding, Algorithms, and Problem Solving
-- 👀 I’m interested in Machine learning, DevOps, MLOPS, Cloud Computing, and Automation
-- 🌱 I’m currently learning Automation and MLOPs best practices to streamline software development workflows and enhance efficiency.
-- 💞️ I’m looking to collaborate on projects related to Machine Learning or DevOps, where I can apply my knowledge and contribute to creating robust and automated development pipelines. Let's build and deploy together!
-- 💡 Constantly learning and exploring new technologies
-- 🚀 Building cool projects to solve real-world problems
-- 🌐 Also Interested in Data Science, Cybersecurity and Web Development
-- 📚 Enthusiastic learner, always seeking to expand my knowledge
-- 💬 Let's connect and collaborate on exciting projects!
-- 📫 Reach me at GitHub
-- 🌟 Check out my portfolio: https://github.com/Ammar-Siddique
-- 
-<!---
-Ammar-Siddique/Ammar-Siddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Ammar</h1>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | Automation</h3>
+
+<p align="center">
+Building scalable cloud platforms, automating delivery pipelines, and engineering reliable production systems.
+</p>
+
+---
+
+## 👀 What Interests Me
+
+- DevOps & Platform Engineering  
+- Cloud Architecture (AWS / Azure)  
+- Infrastructure Automation  
+- Distributed Systems  
+- Kubernetes & Cloud-native Ecosystems  
+- Observability & Reliability Engineering  
+
+Still carrying my curiosity from university days — now applying it to production systems.
+
+---
+
+## 👨‍💻 About Me
+
+- DevOps Engineer focused on **AWS, Azure, CI/CD, and infrastructure automation**
+- Hands-on experience with **production cloud operations, migrations, DR strategy, and platform reliability**
+- Interested in **Cloud Architecture, Kubernetes, Platform Engineering, and Distributed Systems**
+- Currently sharpening expertise in **Kubernetes and cloud-native systems**
+
+---
+
+## ⚡ What I Work With
+
+### Cloud Platforms
+`AWS` `Azure`
+
+### Infrastructure & Automation
+`Terraform` `Jenkins` `GitHub Actions` `Bash` `Python`
+
+### Containers & Deployment
+`Docker` `Elastic Beanstalk` `Azure App Services`
+
+### Monitoring & Security
+`CloudWatch` `AWS WAF` `Nginx`
+
+### Databases
+`MongoDB` `RDS` `Azure SQL` `ElastiCache`
+
+### Also Worked With
+`TensorFlow` `PyTorch` `Scikit-learn`
+
+---
+
+## 🚀 What I’ve Worked On
+
+### Cloud Infrastructure Automation
+Provisioning and managing production-grade infrastructure using Infrastructure as Code.
+
+### CI/CD Engineering
+Building automated pipelines for faster, reliable deployments.
+
+### Disaster Recovery & Migration
+Designing cloud DR environments and executing platform migrations.
+
+### Production Database Operations
+Managing MongoDB replica sets and zero-downtime upgrades.
+
+### Cost Optimization
+Automating cloud resource audits and operational cost reduction workflows.
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes (Advanced concepts)
+- GitOps
+- Platform Engineering
+- Service Mesh
+- Cloud-native Observability
+
+---
+
+## 🛠 Current Focus
+
+```yaml
+building:
+  - production-grade cloud systems
+  - resilient deployment workflows
+  - scalable infrastructure automation
+
+exploring:
+  - kubernetes internals
+  - distributed systems
+  - platform reliability engineering
+```
+
+---
+
+## 📌 Featured Interests
+
+- Infrastructure as Code
+- Cloud Security
+- Site Reliability Engineering
+- High Availability Architectures
+- Disaster Recovery Design
+
+---
+
+## 🤝 Open to Collaborate On
+
+Projects involving:
+
+- Cloud Infrastructure Automation
+- DevOps Tooling
+- Kubernetes
+- Platform Engineering
+- MLOps / Cloud-integrated ML systems
+
+---
+
+## 📚 Beyond DevOps
+
+I still enjoy exploring:
+
+- Machine Learning
+- MLOps
+- Systems Design
+- Cybersecurity
+- Performance Optimization
+
+Good engineering habits transfer across domains.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/ammar-siddique/]
+- GitHub: [https://github.com/Ammar-Siddique]
+
+---
+
+<p align="center">
+Always automating the repetitive, optimizing the expensive, and hardening the critical.
+</p>
