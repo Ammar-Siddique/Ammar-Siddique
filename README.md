@@ -169,8 +169,11 @@ Good engineering habits transfer across domains.
 
 <p align="center">
 Automate the repetitive. Optimize the expensive. Hardening the critical. Engineer for reliability.
-[![](https://komarev.com/ghpvc/?username=Ammar-Siddique&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Ammar-Siddique&icon=0&color=0" />
+  </a>
+</p>
 
