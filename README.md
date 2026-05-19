@@ -156,11 +156,7 @@ Good engineering habits transfer across domains.
 ---
 
 <p align="center">
-  <img height="160"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=tokyonight" />
-
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=Ammar-Siddique&theme=tokyonight" />
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
