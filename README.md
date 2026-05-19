@@ -149,15 +149,15 @@ Good engineering habits transfer across domains.
 ## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Ammar-Siddique&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/ammar-siddique/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Ammar-Siddique"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  [![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Siddique&theme=transparent" alt="Ammar's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ammar-Siddique&theme=tokyonight" />
 </p>
 
 <p align="center">
