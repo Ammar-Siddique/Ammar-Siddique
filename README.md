@@ -7,7 +7,21 @@ Building scalable cloud platforms, automating delivery pipelines, and engineerin
 
 ---
 
-## 👀 What Interests Me
+## Table of Contents
+- [What Interests Me](#-what-interests-me)
+- [About Me](#-about-me)
+- [What I Work With](#-what-i-work-with)
+- [Key Projects and Experience](#-key-projects-and-experience)
+- [Currently Learning](#-currently-learning)
+- [Current Focus](#-current-focus)
+- [Featured Interests](#-featured-interests)
+- [Open to Collaborate On](#-open-to-collaborate-on)
+- [Beyond DevOps](#-beyond-devops)
+- [Connect With Me](#-connect-with-me)
+
+---
+
+##  What Interests Me
 
 - DevOps & Platform Engineering  
 - Cloud Architecture (AWS / Azure)  
@@ -20,7 +34,7 @@ Still carrying my curiosity from university days — now applying it to producti
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - DevOps Engineer focused on **AWS, Azure, CI/CD, and infrastructure automation**
 - Hands-on experience with **production cloud operations, migrations, DR strategy, and platform reliability**
@@ -51,7 +65,7 @@ Still carrying my curiosity from university days — now applying it to producti
 
 ---
 
-## 🚀 What I’ve Worked On
+##  Key Projects and Experience
 
 ### Cloud Infrastructure Automation
 Provisioning and managing production-grade infrastructure using Infrastructure as Code.
@@ -70,7 +84,7 @@ Automating cloud resource audits and operational cost reduction workflows.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Kubernetes (Advanced concepts)
 - GitOps
@@ -80,7 +94,7 @@ Automating cloud resource audits and operational cost reduction workflows.
 
 ---
 
-## 🛠 Current Focus
+##  Current Focus
 
 ```yaml
 building:
@@ -134,10 +148,17 @@ Good engineering habits transfer across domains.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/ammar-siddique/]
-- GitHub: [https://github.com/Ammar-Siddique]
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammar-siddique/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Ammar-Siddique"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Siddique&show_icons=true&theme=transparent" alt="Ammar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Siddique&theme=transparent" alt="Ammar's GitHub Streak" />
+</p>
 
 <p align="center">
 Always automating the repetitive, optimizing the expensive, and hardening the critical.
