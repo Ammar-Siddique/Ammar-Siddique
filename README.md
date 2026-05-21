@@ -8,8 +8,8 @@ Building scalable cloud platforms, automating delivery pipelines, and engineerin
 ---
 
 ## Table of Contents
-- [What Interests Me](#-what-interests-me)
-- [About Me](#-about-me)
+- [What Interests Me](#what-interests-me)
+- [About Me](#about-me)
 - [What I Work With](#-what-i-work-with)
 - [Key Projects and Experience](#-key-projects-and-experience)
 - [Currently Learning](#-currently-learning)
@@ -17,6 +17,7 @@ Building scalable cloud platforms, automating delivery pipelines, and engineerin
 - [Featured Interests](#-featured-interests)
 - [Open to Collaborate On](#-open-to-collaborate-on)
 - [Beyond DevOps](#-beyond-devops)
+- [GitHub Stats](#️-github-stats)
 - [Connect With Me](#-connect-with-me)
 
 ---
