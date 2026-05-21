@@ -168,8 +168,8 @@ Good engineering habits transfer across domains.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ammar-siddique/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /></a>
-  <a href="https://github.com/Ammar-Siddique"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" /></a>
+  <a href="https://www.linkedin.com/in/ammar-siddique/"><img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" /></a>
+  <a href="https://github.com/Ammar-Siddique"><img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" /></a>
 </p>
 
 ---
