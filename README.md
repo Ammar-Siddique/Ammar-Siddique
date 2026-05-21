@@ -66,7 +66,7 @@ Still carrying my curiosity from university days — now applying it to producti
 
 ---
 
-##  Key Projects and Experience
+## Key Projects and Experience
 
 ### Cloud Infrastructure Automation
 Provisioning and managing production-grade infrastructure using Infrastructure as Code.
@@ -85,7 +85,7 @@ Automating cloud resource audits and operational cost reduction workflows.
 
 ---
 
-##  Currently Learning
+## Currently Learning
 
 - Kubernetes (Advanced concepts)
 - GitOps
@@ -95,7 +95,7 @@ Automating cloud resource audits and operational cost reduction workflows.
 
 ---
 
-##  Current Focus
+## Current Focus
 
 ```yaml
 building:
