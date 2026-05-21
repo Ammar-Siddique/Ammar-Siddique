@@ -149,10 +149,15 @@ Good engineering habits transfer across domains.
 ---
 ## ✍️ Github Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Ammar-Siddique&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ammar-Siddique&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ammar-Siddique&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ammar-Siddique&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Ammar-Siddique&theme=monokai&hide_border=false" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ammar-Siddique&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
