@@ -176,7 +176,7 @@ Automate the repetitive. Optimize the expensive. Hardening the critical. Enginee
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Ammar-Siddique&icon=0&color=0" />
+    <img src="https://komarev.com/ghpvc/?username=Ammar-Siddique&icon=0&color=1" />
   </a>
 </p>
 
