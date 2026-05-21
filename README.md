@@ -179,7 +179,7 @@ Good engineering habits transfer across domains.
 Automate the repetitive. Optimize the expensive. Hardening the critical. Engineer for reliability.
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Ammar-Siddique&color=blue" />
   </a>
