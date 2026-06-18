@@ -151,8 +151,7 @@ Good engineering habits transfer across domains.
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Ammar-Siddique&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" />
-  
-  <img src="https://streak-stats.demolab.com/?user=Ammar-Siddique&theme=monokai&hide_border=false" />
+
 </p>
 
 <p align="center">
